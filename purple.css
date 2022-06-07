@@ -1,0 +1,12 @@
+:root {
+    --mainColor: #46344E;
+    --bodyColor: rgb(4, 13, 32);
+    --secondaryColor: #382a3f;
+    --borderColor: white;
+    --mainText: white;
+    --buttonBorder: white;
+    --secondaryText: white;
+    --themeDotborder: white;
+    --previewBg: rgb(29, 21, 32, 0.8);
+    --cardBg: #24292e;
+}

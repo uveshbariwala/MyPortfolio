@@ -1,0 +1,12 @@
+:root {
+    --navBarText: black;
+    --mainColor: #b0a5c9;
+    --bodyColor: lightblue;
+    --secondaryColor: #28fcd8;
+    --borderColor: black;
+    --mainText: rgb(4, 39, 68);
+    --secondaryText: #4b5156;
+    --themeDotborder: white;
+    --previewBg: rgb(81, 90, 72, 0.8);
+    --cardBg: rgb(155, 199, 213);
+}

@@ -1,0 +1,14 @@
+:root {
+    --navBarText: black;
+    --mainColor: #54c47a;
+    --bodyColor: lightgreen;
+    --secondaryColor: #54c47a;
+    --borderColor: white;
+    --mainText: white;
+    --buttonBorder: white;
+    --buttonColor: black;
+    --secondaryText: #4b5156;
+    --themeDotborder: white;
+    --previewBg: rgb(251, 249, 243, 0.8);
+    --cardBg: #54c47a;
+}
